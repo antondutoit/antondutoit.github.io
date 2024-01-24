@@ -2,5 +2,5 @@
 title: "About"
 ---
 
-About me. I use computational methods to ... 
+About me. I use computational methods to compile and analyse large health datasets.   
 
