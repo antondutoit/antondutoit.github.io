@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Anton T. du Toit"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Publications.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+editor: visual
+
