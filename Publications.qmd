@@ -12,13 +12,13 @@ du Toit AT, Thomson R, Page A. Supplementary information for: A systematic revie
 
 ### Software
 
-du Toit AT. ethica_utilities. 2019 \[cited 2023 Nov 19\]. Available from: <https://github.com/benifex/ethica_utilities>.
+du Toit AT. ethica_utilities. 2019. Available from: <https://github.com/benifex/ethica_utilities>.
 
 ### Reports (published)
 
 Moxham-Hall V, du Toit A, Newell S, Brentnall S, Rawlings D, Goldberg E. Proton beam therapy: a rapid review of evidence. Sydney: The Sax Institute; 2023. doi:[10.57022/fyfv7482](https://doi.org/10.57022/fyfv7482).
 
-Moxham-Hall V, du Toit A, Rawlings D. Clinical interventions for e-cigarette cessation in young people: an Evidence Snapshot brokered by the Sax Institute for the NSW Ministry of Health. The Sax Institute; 2022. .
+Moxham-Hall V, du Toit A, Rawlings D. Clinical interventions for e-cigarette cessation in young people: an Evidence Snapshot brokered by the Sax Institute for the NSW Ministry of Health. The Sax Institute; 2022.
 
 Rawlings D, Moore G, du Toit A, Song H, Goldberg E, Ahmed MU, Jani HS. The effectiveness of opioid treatment delivery methods. The Sax Institute; 2022. doi:[10.57022/zwhw5494](https://doi.org/10.57022/zwhw5494).
 
@@ -30,13 +30,13 @@ Moore G, du Toit A, Thompson S, Knight A, Gordon R. The effectiveness of oral he
 
 Moore G, du Toit A, Hutchinson J, Thompson S, Gordon R, Knight A, Graham E, Davenport D. The effectiveness of comprehensive health assessments for people with disability. The Sax Institute; 2021. doi:[10.57022/zjtf4123](https://doi.org/10.57022/zjtf4123).
 
-Moore G, du Toit AT, Knight A, Thompson S, Gordon R, Taha H, Sharma S. Physical density to reduce the transmission of COVID-19 in hospital wards. Sydney; 2020. odi:[10.57022/xagd1798](https://doi.org/10.57022/xagd1798).
+Moore G, du Toit AT, Knight A, Thompson S, Gordon R, Taha H, Sharma S. Physical density to reduce the transmission of COVID-19 in hospital wards. Sydney: Sax Institute; 2020. doi:[10.57022/xagd1798](https://doi.org/10.57022/xagd1798).
 
 Dawson G, Moore G, du Toit AT, Gordon R, Thompson S, Taha H, Sharma S. Update: What is known about aerosol transmission of SARS-CoV-2?. Sydney; 2020. doi:[10.57022/onai3530](https://doi.org/10.57022/onai3530).
 
 Moore G, Du Toit A, Jameson B, Gordon R. The efficacy of respirators and medical masks for healthcare workers to reduce transmission of COVID-19. The Sax Institute; 2020. doi:[10.57022/mrgp5250](https://doi.org/10.57022/mrgp5250).
 
-Dawson G, Moore G, du Toit AT, Gordon R, Jameson B. What is known about aerosol transmission of SARS-CoV-2?. Sydney: Sax Institute; 2020.
+Dawson G, Moore G, du Toit AT, Gordon R, Jameson B. What is known about aerosol transmission of SARS-CoV-2? Sydney: Sax Institute; 2020.
 
 Moore G, du Toit A, Jameson B, Gordon R. Medical masks COVID-19. The Sax Institute; 2020. doi:[10.57022/mrgp5250](https://doi.org/10.57022/mrgp5250).
 
@@ -50,9 +50,9 @@ Moore G, du Toit A, Jameson B, Liu A, Harris M. The effectiveness of virtual hos
 
 ### Reports (unpublished)
 
-Frommer M, du Toit AT. The future for rural and remote health care in NSW. Sydney: Sax Institute; 2021.
+Frommer M, du Toit AT \[authorship unattributed\]. The future for rural and remote health care in NSW. Sydney: Sax Institute; 2021.
 
-Frommer M, du Toit AT. Strategies and initiatives for sustainable primary and secondary health care. Sydney: Sax Institute; 2021.
+Frommer M, du Toit AT \[authorship unattributed\]. Strategies and initiatives for sustainable primary and secondary health care. Sydney: Sax Institute; 2021.
 
 ### In progress
 
