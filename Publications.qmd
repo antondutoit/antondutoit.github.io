@@ -6,7 +6,7 @@ title: "Publications"
 
 Harjanto R, Du Toit A, Sperandei S, Hallinan R, McCaul P, Whitton G. Severity and outcomes of admissions for gamma hydroxy-butyrate disorders before and after COVID-19 pandemic restrictions in South Western Sydney. Journal of Substance Use. 2023;1–8. doi:[10.1080/14659891.2023.2293771](https://doi.org/10.1080/14659891.2023.2293771).
 
-Du Toit A, Thomson R, Page A. A systematic review and meta-analysis of longitudinal studies of the antecedents and consequences of wellbeing among university students. Intnl J Wellbeing. 2022;12:163–206. doi:[10.5502/ijw.v12i2.1897](https://doi.org/10.5502/ijw.v12i2.1897).
+Du Toit A, Thomson R, Page A. A systematic review and meta-analysis of longitudinal studies of the antecedents and consequences of wellbeing among university students. International Journal of Wellbeing. 2022;12:163–206. doi:[10.5502/ijw.v12i2.1897](https://doi.org/10.5502/ijw.v12i2.1897).
 
 ### Software
 
