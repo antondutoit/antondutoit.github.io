@@ -8,8 +8,6 @@ Harjanto R, Du Toit A, Sperandei S, Hallinan R, McCaul P, Whitton G. Severity an
 
 Du Toit A, Thomson R, Page A. A systematic review and meta-analysis of longitudinal studies of the antecedents and consequences of wellbeing among university students. Intnl J Wellbeing. 2022;12:163–206. doi:[10.5502/ijw.v12i2.1897](https://doi.org/10.5502/ijw.v12i2.1897).
 
-du Toit AT, Thomson R, Page A. Supplementary information for: A systematic review and meta-analysis of longitudinal studies of the antecedents and consequences of wellbeing among university students. International Journal of Wellbeing. 2022;12:S1–S7. doi:[10.5502/ijw.v12i2.1897s](https://doi.org/10.5502/ijw.v12i2.1897s).
-
 ### Software
 
 du Toit AT. ethica_utilities. 2019. Available from: <https://github.com/benifex/ethica_utilities>.
