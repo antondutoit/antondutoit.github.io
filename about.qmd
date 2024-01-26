@@ -4,7 +4,7 @@ title: "About"
 
 About me. I use computational methods to compile and analyse large health datasets.
 
-ORCiD: [0000-0002-9715-2398](https://orcid.org/0000-0002-9715-2398%20target=%22_blank%22)
+ORCiD: [0000-0002-9715-2398](https://orcid.org/0000-0002-9715-2398)
 
 Google Scholar: [Link](https://scholar.google.com.au/citations?hl=en&pli=1&user=P8lS-1kAAAAJ)
 
