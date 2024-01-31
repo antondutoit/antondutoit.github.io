@@ -6,6 +6,10 @@ title: "Anton T. du Toit"
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
 
-This is a Quarto website.
+About me. I use computational methods to compile and analyse large health datasets.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+ORCiD: [0000-0002-9715-2398](https://orcid.org/0000-0002-9715-2398 "Opens in new tab"){target="_blank" rel="noopener noreferrer"}
+
+Google Scholar: [Link](https://scholar.google.com.au/citations?hl=en&pli=1&user=P8lS-1kAAAAJ "Opens in new tab"){target="_blank" rel="noopener noreferrer"}
+
+Scopus Author ID: [57739342700](https://www.scopus.com/authid/detail.uri?authorId=57739342700 "Opens in new tab"){target="_blank" rel="noopener noreferrer"}
