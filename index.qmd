@@ -6,7 +6,7 @@ title: "Anton T. du Toit"
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
 
-About me. I use computational methods to compile and analyse large health datasets.
+I use computational methods to compile and analyse large health datasets.
 
 ORCiD: [0000-0002-9715-2398](https://orcid.org/0000-0002-9715-2398 "Opens in new tab"){target="_blank" rel="noopener noreferrer"}
 

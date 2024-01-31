@@ -2,10 +2,10 @@
 title: "About"
 ---
 
-About me. I use computational methods to compile and analyse large health datasets.
+My thesis topic was ‘A longitudinal cohort study of psychological wellbeing in university students using ecological momentary assessment and sensor data from smartphones’.
 
-ORCiD: [0000-0002-9715-2398](https://orcid.org/0000-0002-9715-2398 "Opens in new tab"){target="_blank" rel="noopener noreferrer"}
+The review of the existing literature was by way of a meta-analysis of 62 longitudinal studies of wellbeing in university students, using semipartial correlation coefficients to control for baseline wellbeing. It is available [here](https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/1897 "Opens in new tab"){target="_blank" rel="noopener noreferrer"}.   
 
-Google Scholar: [Link](https://scholar.google.com.au/citations?hl=en&pli=1&user=P8lS-1kAAAAJ "Opens in new tab"){target="_blank" rel="noopener noreferrer"}
+Primary data collection was a longitudinal study using ecological momentary assessments (i.e., brief repeated questionnaires) and passive data from smartphones. Feature extraction from the passive data included linking GPS data to an ABS land use database and use of machine learning algorithms such as DBSCAN.
 
-Scopus Author ID: [57739342700](https://www.scopus.com/authid/detail.uri?authorId=57739342700 "Opens in new tab"){target="_blank" rel="noopener noreferrer"}
+EMA data showed that both prospective wellbeing and changes in wellbeing were predicted by several aspects of past-hour subjective experience of activities, such as Learning and Importance to future goals (prospective), and Challenge and Concentration (change). The smartphone passive data was analysed with multilevel linear regression models, showing that wellbeing was predicted by variables including commuting time, physical activity, time spent in areas with certain land uses (e.g. educational and home) and smartphone usage intensity.
