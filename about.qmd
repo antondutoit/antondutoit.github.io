@@ -4,7 +4,7 @@ title: "About"
 
 My thesis topic was ‘A longitudinal cohort study of psychological wellbeing in university students using ecological momentary assessment and sensor data from smartphones’.
 
-The review of the existing literature was by way of a meta-analysis of 62 longitudinal studies of wellbeing in university students, using semipartial correlation coefficients to control for baseline wellbeing. It is available [here](https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/1897 "Opens in new tab"){target="_blank" rel="noopener noreferrer"}.   
+The review of the existing literature was by way of a meta-analysis of 62 longitudinal studies of wellbeing in university students, using semipartial correlation coefficients to control for baseline wellbeing. It is available [here](https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/1897 "Opens in new tab"){target="_blank" rel="noopener noreferrer"}.
 
 Primary data collection was a longitudinal study using ecological momentary assessments (i.e., brief repeated questionnaires) and passive data from smartphones. Feature extraction from the passive data included linking GPS data to an ABS land use database and use of machine learning algorithms such as DBSCAN.
 
