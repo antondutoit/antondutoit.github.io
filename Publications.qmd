@@ -8,11 +8,33 @@ Harjanto R, Du Toit A, Sperandei S, Hallinan R, McCaul P, Whitton G. Severity an
 
 Du Toit A, Thomson R, Page A. A systematic review and meta-analysis of longitudinal studies of the antecedents and consequences of wellbeing among university students. International Journal of Wellbeing. 2022;12:163–206. doi:[10.5502/ijw.v12i2.1897](https://doi.org/10.5502/ijw.v12i2.1897).
 
+### Journal articles (under review)
+
+du Toit AT, Maston, K, Mackinnon A, Calear, A; O’Dea, B; Tye, M, Werner-Seidler A. (under review). Longitudinal effects of bushfire exposure on adolescent mental health.
+
+### Journal articles (in preparation)
+
+du Toit AT, South A, Mackinnon A, Werner-Seidler A. (in preparation). The antecedents of eudaemonic wellbeing in adolescents: a longitudinal study of 3,642 participants.
+
+du Toit AT, South A, Mackinnon A, Werner-Seidler A. (in preparation). A moderation analysis of resilience and mental illness in adolescents.
+
+du Toit AT, Braund TA, Bal D, Mackinnon A, Whitton A. (in preparation). Imputation of missing data from smartphone accelerometers: a comparative study of methods.
+
+Braund TA, du Toit AT, Bal D, Whitton A. (in preparation). Mind the Gap: Strategies for Accessible Digital Phenotyping in Psychiatry.
+
+Braund TA, Bal D, du Toit AT, Zheng W-Y, Duong B, Nguyen D, Berk J, Hoon L, Cameron S, Christensen H, et al. (in preparation). Predicting Amotivation Using Passively Collected Accelerometer Data in University Students Using a Mental Health App.
+
+South A, Werner-Seidler A, Theobold A, Josifovski N, du Toit AT, Li S. (in preparation). Blended care approaches for the treatment of adolescent depression or anxiety: A systematic review.
+
+Martin, A., Leckning, B., Rheinberger, D., Chakouch, C., Josifovski, N., McGill, K., Kartal, D., du Toit, A., Holmes, G., Hill, N., Shand, F. (in preparation). The effectiveness of aftercare interventions for people experiencing a suicide crisis: A systematic review and meta-analysis.
+
 ### Software
 
 du Toit AT. ethica_utilities. 2019. Available from: <https://github.com/benifex/ethica_utilities>.
 
 ### Reports (published)
+
+Petrunoff N, Harley S, du Toit A, Lo M, Garg A, Wilson E, Goldberg E, Gordon R, King E, Osborne C, et al. Sun safety intervention effectiveness in primary and secondary school settings: A realist review. Sydney: The Sax Institute; 2024.
 
 Moxham-Hall V, du Toit A, Newell S, Brentnall S, Rawlings D, Goldberg E. Proton beam therapy: a rapid review of evidence. Sydney: Sax Institute; 2023. doi:[10.57022/fyfv7482](https://doi.org/10.57022/fyfv7482).
 
