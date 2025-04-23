@@ -4,9 +4,9 @@ title: "Publications"
 
 ### Journal articles
 
-Harjanto R, Du Toit A, Sperandei S, Hallinan R, McCaul P, Whitton G. Severity and outcomes of admissions for gamma hydroxy-butyrate disorders before and after COVID-19 pandemic restrictions in South Western Sydney. Journal of Substance Use. 2023;1–8. doi:[10.1080/14659891.2023.2293771](https://doi.org/10.1080/14659891.2023.2293771).
+Harjanto R, Du Toit A, Sperandei S, Hallinan R, McCaul P, Whitton G. Severity and outcomes of admissions for gamma hydroxy-butyrate disorders before and after COVID-19 pandemic restrictions in South Western Sydney. Journal of Substance Use. 2023;1–8. doi:[10.1080/14659891.2023.2293771](https://doi.org/10.1080/14659891.2023.2293771){target="_blank"}.
 
-Du Toit A, Thomson R, Page A. A systematic review and meta-analysis of longitudinal studies of the antecedents and consequences of wellbeing among university students. International Journal of Wellbeing. 2022;12:163–206. doi:[10.5502/ijw.v12i2.1897](https://doi.org/10.5502/ijw.v12i2.1897).
+Du Toit A, Thomson R, Page A. A systematic review and meta-analysis of longitudinal studies of the antecedents and consequences of wellbeing among university students. International Journal of Wellbeing. 2022;12:163–206. doi:[10.5502/ijw.v12i2.1897](https://doi.org/10.5502/ijw.v12i2.1897){target="_blank"}.
 
 ### Journal articles (under review)
 
@@ -30,7 +30,7 @@ Martin, A., Leckning, B., Rheinberger, D., Chakouch, C., Josifovski, N., McGill,
 
 ### Software
 
-du Toit AT. ethica_utilities. 2019. Available from: <https://github.com/benifex/ethica_utilities>.
+du Toit AT. ethica_utilities. 2019. Available from: [https://github.com/benifex/ethica_utilities](https://github.com/benifex/ethica_utilities){.uri target="_blank"}.
 
 ### Reports (published)
 
@@ -42,34 +42,34 @@ Moxham-Hall V, du Toit A, Rawlings D. Clinical interventions for e-cigarette ces
 
 Rawlings D, Moore G, du Toit A, Song H, Goldberg E, Ahmed MU, Jani HS. The effectiveness of opioid treatment delivery methods. Sydney: Sax Institute; 2022. doi:[10.57022/zwhw5494](https://doi.org/10.57022/zwhw5494){target="_blank"}.
 
-Moore G, du Toit A, Thompson S, Hutchinson J, Wiryoatmodjo A, Sivaprakash PP, Gordon R. Effectiveness of school located nurse models. Sydney: Sax Institute; 2021. doi:[10.57022/gmwr5438](https://doi.org/10.57022/gmwr5438).
+Moore G, du Toit A, Thompson S, Hutchinson J, Wiryoatmodjo A, Sivaprakash PP, Gordon R. Effectiveness of school located nurse models. Sydney: Sax Institute; 2021. doi:[10.57022/gmwr5438](https://doi.org/10.57022/gmwr5438){target="_blank"}.
 
-Moore G, Du Toit A, Thompson S, Hutchinson J. Effectiveness of secondary triage models for residents of aged care facilities. Sydney: Sax Institute; 2021. doi:[10.57022/uvfy9478](https://doi.org/10.57022/uvfy9478).
+Moore G, Du Toit A, Thompson S, Hutchinson J. Effectiveness of secondary triage models for residents of aged care facilities. Sydney: Sax Institute; 2021. doi:[10.57022/uvfy9478](https://doi.org/10.57022/uvfy9478){target="_blank"}.
 
-Moore G, du Toit A, Thompson S, Knight A, Gordon R. The effectiveness of oral health interventions for people with disability. Sydney: Sax Institute; 2021 doi:[10.57022/lose8402](https://doi.org/10.57022/lose8402).
+Moore G, du Toit A, Thompson S, Knight A, Gordon R. The effectiveness of oral health interventions for people with disability. Sydney: Sax Institute; 2021 doi:[10.57022/lose8402](https://doi.org/10.57022/lose8402){target="_blank"}.
 
-Moore G, du Toit A, Hutchinson J, Thompson S, Gordon R, Knight A, Graham E, Davenport D. The effectiveness of comprehensive health assessments for people with disability. Sydney: Sax Institute; 2021. doi:[10.57022/zjtf4123](https://doi.org/10.57022/zjtf4123).
+Moore G, du Toit A, Hutchinson J, Thompson S, Gordon R, Knight A, Graham E, Davenport D. The effectiveness of comprehensive health assessments for people with disability. Sydney: Sax Institute; 2021. doi:[10.57022/zjtf4123](https://doi.org/10.57022/zjtf4123){target="_blank"}.
 
-Moore G, du Toit AT, Knight A, Thompson S, Gordon R, Taha H, Sharma S. Physical density to reduce the transmission of COVID-19 in hospital wards. Sydney: Sax Institute; 2020. doi:[10.57022/xagd1798](https://doi.org/10.57022/xagd1798).
+Moore G, du Toit AT, Knight A, Thompson S, Gordon R, Taha H, Sharma S. Physical density to reduce the transmission of COVID-19 in hospital wards. Sydney: Sax Institute; 2020. doi:[10.57022/xagd1798](https://doi.org/10.57022/xagd1798){target="_blank"}.
 
-Dawson G, Moore G, du Toit AT, Gordon R, Thompson S, Taha H, Sharma S. Update: What is known about aerosol transmission of SARS-CoV-2?. Sydney: Sax Institute; 2020. doi:[10.57022/onai3530](https://doi.org/10.57022/onai3530).
+Dawson G, Moore G, du Toit AT, Gordon R, Thompson S, Taha H, Sharma S. Update: What is known about aerosol transmission of SARS-CoV-2?. Sydney: Sax Institute; 2020. doi:[10.57022/onai3530](https://doi.org/10.57022/onai3530){target="_blank"}.
 
-Moore G, Du Toit A, Jameson B, Gordon R. The efficacy of respirators and medical masks for healthcare workers to reduce transmission of COVID-19. Sydney: Sax Institute; 2020. doi:[10.57022/mrgp5250](https://doi.org/10.57022/mrgp5250).
+Moore G, Du Toit A, Jameson B, Gordon R. The efficacy of respirators and medical masks for healthcare workers to reduce transmission of COVID-19. Sydney: Sax Institute; 2020. doi:[10.57022/mrgp5250](https://doi.org/10.57022/mrgp5250){target="_blank"}.
 
 Dawson G, Moore G, du Toit AT, Gordon R, Jameson B. What is known about aerosol transmission of SARS-CoV-2? Sydney: Sax Institute; 2020.
 
-Moore G, du Toit A, Jameson B, Gordon R. Medical masks COVID-19. Sydney: Sax Institute; 2020. doi:[10.57022/mrgp5250](https://doi.org/10.57022/mrgp5250).
+Moore G, du Toit A, Jameson B, Gordon R. Medical masks COVID-19. Sydney: Sax Institute; 2020. doi:[10.57022/mrgp5250](https://doi.org/10.57022/mrgp5250){target="_blank"}.
 
-Moore G, Rudge S, du Toit A, Jameson B, Jenkin R, Gordon R, Dhirasasna N. Update: The use of masks by asymptomatic people to reduce transmission of COVID-19. Sydney: Sax Institute; 2020. doi:[10.57022/fmbs6750](https://doi.org/10.57022/fmbs6750).
+Moore G, Rudge S, du Toit A, Jameson B, Jenkin R, Gordon R, Dhirasasna N. Update: The use of masks by asymptomatic people to reduce transmission of COVID-19. Sydney: Sax Institute; 2020. doi:[10.57022/fmbs6750](https://doi.org/10.57022/fmbs6750){target="_blank"}.
 
-Moore G, Rudge S, du Toit A, Jameson B. The use of face shields by asymptomatic people to reduce transmission of COVID-19. Sydney: Sax Institute; 2020. doi:[10.57022/stmf8514](https://doi.org/10.57022/stmf8514).
+Moore G, Rudge S, du Toit A, Jameson B. The use of face shields by asymptomatic people to reduce transmission of COVID-19. Sydney: Sax Institute; 2020. doi:[10.57022/stmf8514](https://doi.org/10.57022/stmf8514){target="_blank"}.
 
-Moore G, Rudge S, Jameson B, du Toit A, Taha H, Jenkin R. The use of masks by asymptomatic people to reduce COVID transmission. Sydney: Sax Institute; 2020. doi:[10.57022/gtau2910](https://doi.org/10.57022/gtau2910).
+Moore G, Rudge S, Jameson B, du Toit A, Taha H, Jenkin R. The use of masks by asymptomatic people to reduce COVID transmission. Sydney: Sax Institute; 2020. doi:[10.57022/gtau2910](https://doi.org/10.57022/gtau2910){target="_blank"}.
 
-Moore G, du Toit A, Jameson B, Liu A, Harris M. The effectiveness of virtual hospitals. Sydney: Sax Institute; 2020. doi:[10.57022/lwxq3617](https://doi.org/10.57022/lwxq3617).
+Moore G, du Toit A, Jameson B, Liu A, Harris M. The effectiveness of virtual hospitals. Sydney: Sax Institute; 2020. doi:[10.57022/lwxq3617](https://doi.org/10.57022/lwxq3617){target="_blank"}.
 
 ### Reports (unpublished)
 
-Frommer M, du Toit AT \[authorship unattributed\]. The future for rural and remote health care in NSW. Sydney: Sax Institute; 2021.
+Frommer M, du Toit AT \[authorship unattributed\]. The future for rural and remote health care in NSW. Sydney: Sax Institute; 2021. Available [here](https://healthcarefunding.specialcommission.nsw.gov.au/assets/Uploads/publications/Exhibits-133/EXHIBIT-H_TAB-H.002.025_MOH.0010.0299.0001.pdf){target="_blank"}, p.106ff.
 
-Frommer M, du Toit AT \[authorship unattributed\]. Strategies and initiatives for sustainable primary and secondary health care. Sydney: Sax Institute; 2021.
+Frommer M, du Toit AT \[authorship unattributed\]. Strategies and initiatives for sustainable primary and secondary health care. Sydney: Sax Institute; 2021. Available [here](https://healthcarefunding.specialcommission.nsw.gov.au/assets/Uploads/publications/Exhibits-133/EXHIBIT-H_TAB-H.002.025_MOH.0010.0299.0001.pdf){target="_blank"}, p.66ff.
