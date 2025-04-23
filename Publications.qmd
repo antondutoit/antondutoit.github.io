@@ -40,7 +40,7 @@ Moxham-Hall V, du Toit A, Newell S, Brentnall S, Rawlings D, Goldberg E. Proton 
 
 Moxham-Hall V, du Toit A, Rawlings D. Clinical interventions for e-cigarette cessation in young people: an Evidence Snapshot brokered by the Sax Institute for the NSW Ministry of Health. Sydney: Sax Institute; 2022.
 
-Rawlings D, Moore G, du Toit A, Song H, Goldberg E, Ahmed MU, Jani HS. The effectiveness of opioid treatment delivery methods. Sydney: Sax Institute; 2022. doi:[10.57022/zwhw5494](https://doi.org/10.57022/zwhw5494).
+Rawlings D, Moore G, du Toit A, Song H, Goldberg E, Ahmed MU, Jani HS. The effectiveness of opioid treatment delivery methods. Sydney: Sax Institute; 2022. doi:[10.57022/zwhw5494](https://doi.org/10.57022/zwhw5494){target="_blank"}.
 
 Moore G, du Toit A, Thompson S, Hutchinson J, Wiryoatmodjo A, Sivaprakash PP, Gordon R. Effectiveness of school located nurse models. Sydney: Sax Institute; 2021. doi:[10.57022/gmwr5438](https://doi.org/10.57022/gmwr5438).
 
