@@ -36,7 +36,7 @@ du Toit AT. ethica_utilities. 2019. Available from: <https://github.com/benifex/
 
 Petrunoff N, Harley S, du Toit A, Lo M, Garg A, Wilson E, Goldberg E, Gordon R, King E, Osborne C, et al. Sun safety intervention effectiveness in primary and secondary school settings: A realist review. Sydney: The Sax Institute; 2024.
 
-Moxham-Hall V, du Toit A, Newell S, Brentnall S, Rawlings D, Goldberg E. Proton beam therapy: a rapid review of evidence. Sydney: Sax Institute; 2023. doi:[10.57022/fyfv7482](https://doi.org/10.57022/fyfv7482).
+Moxham-Hall V, du Toit A, Newell S, Brentnall S, Rawlings D, Goldberg E. Proton beam therapy: a rapid review of evidence. Sydney: Sax Institute; 2023. doi:[10.57022/fyfv7482](https://doi.org/10.57022/fyfv7482){{target="_blank\"}"}.
 
 Moxham-Hall V, du Toit A, Rawlings D. Clinical interventions for e-cigarette cessation in young people: an Evidence Snapshot brokered by the Sax Institute for the NSW Ministry of Health. Sydney: Sax Institute; 2022.
 
