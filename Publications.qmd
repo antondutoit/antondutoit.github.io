@@ -73,11 +73,3 @@ Moore G, du Toit A, Jameson B, Liu A, Harris M. The effectiveness of virtual hos
 Frommer M, du Toit AT \[authorship unattributed\]. The future for rural and remote health care in NSW. Sydney: Sax Institute; 2021.
 
 Frommer M, du Toit AT \[authorship unattributed\]. Strategies and initiatives for sustainable primary and secondary health care. Sydney: Sax Institute; 2021.
-
-### In progress
-
-du Toit AT, Page A. A systematic review of data preprocessing and feature extraction methods for smartphone passive data for wellbeing. Sydney; 2023.
-
-du Toit AT, Page A. A longitudinal study of wellbeing using passive smartphone data (working title). Sydney; 2023.
-
-du Toit AT, Munasinghe S, Page A. How does wellbeing change? A longitudinal EMA study of the antecedents of wellbeing and its changes in university students (working title). Sydney; 2023.
