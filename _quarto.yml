@@ -9,8 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - Publications.qmd
+      - gallery.qmd
       - about.qmd
-
+      
 format:
   html:
     theme: yeti
