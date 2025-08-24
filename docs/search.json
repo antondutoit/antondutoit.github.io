@@ -23,7 +23,7 @@
   {
     "objectID": "gallery.html",
     "href": "gallery.html",
-    "title": "gallery",
+    "title": "Gallery",
     "section": "",
     "text": "Figure 1: This map was generated with the R library sf, using latitude and longitude data collected via a mobile phone app linked to shapefiles from the Australian Bureau of Statistics.\nLatitude and longitude data has been removed from the axes to protect participant confidentiality."
   }
